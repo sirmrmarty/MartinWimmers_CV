@@ -1,5 +1,5 @@
 % Created by Murat Can Karacabey https://github.com/muratcankaracabey/latex_cv
-%Adapted by Martin Wimmers
+% Adapted by Martin Wimmers
 % this is inspired by Michael Pollind's Awesome CV 
 % Created from scratch as a much simpler alternative to it to actually learn LaTeX.
 % Might be interpreted as an easier-to-edit or easier-to-understand-what-is-going-on version of it.
